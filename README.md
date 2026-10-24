@@ -1,4 +1,4 @@
-# Sac Viet Studio - Traditional Vietnamese Cultural Attire Showcase Platform
+﻿# Sac Viet Studio - Traditional Vietnamese Cultural Attire Showcase Platform
 
 > Redesign traditional Vietnamese attire with precision and historical authenticity.
 > Next.js 15 App Router | React 19 | Three.js | TypeScript | SQLite
@@ -76,7 +76,7 @@ flowchart TD
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/nhutnhd/sac-viet-heritage-studio.git
+git clone https://github.com/nhdnhut/sac-viet-heritage-studio.git
 cd sac-viet-heritage-studio
 
 # Install dependencies
@@ -118,20 +118,20 @@ Test Results Summary:
 
 ```
 sac-viet-heritage-studio/
-├── data/                       # Embedded catalog data and SQLite database
-├── docs/                       # Architectural blueprints and domain research
-├── src/
-│   ├── app/                    # Next.js 15 App Router pages and layouts
-│   ├── components/             # React UI components and 3D viewports
-│   ├── lib/                    # Core libraries, SQLite client, and AI handlers
-│   └── types/                  # TypeScript interface definitions and Zod schemas
-├── tests/                      # Automated test suite
-├── next.config.ts              # Next.js framework configuration
-├── tailwind.config.ts          # Tailwind CSS styling configuration
-├── tsconfig.json               # TypeScript compiler configuration
-├── package.json                # Project dependencies and script declarations
-├── LICENSE                     # MIT License file
-└── README.md                   # Project documentation
+â”œâ”€â”€ data/                       # Embedded catalog data and SQLite database
+â”œâ”€â”€ docs/                       # Architectural blueprints and domain research
+â”œâ”€â”€ src/
+â”‚   â”œâ”€â”€ app/                    # Next.js 15 App Router pages and layouts
+â”‚   â”œâ”€â”€ components/             # React UI components and 3D viewports
+â”‚   â”œâ”€â”€ lib/                    # Core libraries, SQLite client, and AI handlers
+â”‚   â””â”€â”€ types/                  # TypeScript interface definitions and Zod schemas
+â”œâ”€â”€ tests/                      # Automated test suite
+â”œâ”€â”€ next.config.ts              # Next.js framework configuration
+â”œâ”€â”€ tailwind.config.ts          # Tailwind CSS styling configuration
+â”œâ”€â”€ tsconfig.json               # TypeScript compiler configuration
+â”œâ”€â”€ package.json                # Project dependencies and script declarations
+â”œâ”€â”€ LICENSE                     # MIT License file
+â””â”€â”€ README.md                   # Project documentation
 ```
 
 ---
@@ -140,4 +140,5 @@ sac-viet-heritage-studio/
 
 This project is open-source under the MIT License. See [LICENSE](LICENSE) for full details.
 
-Authored and engineered by Nhut Nguyen (@nhutnhd).
+Authored and engineered by Nhut Nguyen (@nhdnhut).
+
