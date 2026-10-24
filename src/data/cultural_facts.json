@@ -1,0 +1,50 @@
+{
+  "version": "1.0.0",
+  "facts": [
+    {
+      "id": "fact_ngu_than_structure",
+      "category": "garment_anatomy",
+      "title": "Cấu trúc 5 thân và đạo lý làm người",
+      "period": "Triều Nguyễn (TK 18 - TK 20)",
+      "content": "Áo ngũ thân được ghép từ 5 mảnh vải: 2 thân trước, 2 thân sau và 1 thân con (vạt tả lập) nằm ẩn phía dưới vạt trước bên phải. Bốn thân ngoài tượng trưng cho tứ thân phụ mẫu (cha mẹ mình và cha mẹ người phối ngẫu), thân con bên trong tượng trưng cho người mặc được chở che. Năm chiếc cúc áo tượng trưng cho Ngũ thường: Nhân - Lễ - Nghĩa - Trí - Tín.",
+      "sourceIds": ["src_ngan_nam_ao_mu", "src_trang_phuc_trieu_nguyen"],
+      "reviewStatus": "verified_academic"
+    },
+    {
+      "id": "fact_tay_chen_origin",
+      "category": "historical_edict",
+      "title": "Chỉ dụ thống nhất y phục thời Nguyễn",
+      "period": "1744 - 1837",
+      "content": "Năm 1744, Võ Vương Nguyễn Phúc Khoát ban hành chỉ dụ cải cách y phục Đàng Trong, đặt nền móng cho áo ngũ thân cài khuy phải và quần hai ống. Đến thời vua Minh Mạng (1827 - 1837), triều đình ban sắc lệnh thống nhất quy thức y phục cả nước, đưa áo ngũ thân (tay thụng cho lễ nghi, tay chẽn cho thường nhật) trở thành quốc phục chính thức của người Việt từ quan lại đến thứ dân.",
+      "sourceIds": ["src_dai_nam_thuc_luc", "src_ngan_nam_ao_mu"],
+      "reviewStatus": "verified_academic"
+    },
+    {
+      "id": "fact_khuy_cai_phai",
+      "category": "symbolism",
+      "title": "Quy thức Khuy Cài Bên Phải (Hữu Nhậm)",
+      "period": "Đại Việt truyền thống",
+      "content": "Áo ngũ thân Việt Nam luôn gài khuy sang bên nách phải (hữu nhậm), tạo nên đường nẹp cong mềm mại hình chữ S hoặc góc vuông nhã nhặn từ chân cổ xuống nách. Cách cài này vừa kín đáo, trang nhã, vừa phản ánh quy chuẩn văn hóa phương Đông về lễ tiết và sự đoan chính.",
+      "sourceIds": ["src_trang_phuc_trieu_nguyen"],
+      "reviewStatus": "verified_academic"
+    },
+    {
+      "id": "fact_ao_dai_evolution",
+      "category": "modern_history",
+      "title": "Hành trình từ Ngũ Thân đến Áo Dài Hiện Đại",
+      "period": "1930s - 1960s",
+      "content": "Áo dài hiện đại là kết quả của quá trình tiếp biến văn hóa liên tục. Thập niên 1930, họa sĩ Cát Tường giới thiệu áo Le Mur cách tân, sau đó họa sĩ Lê Phổ kết hợp lại nét kín đáo của áo ngũ thân với đường cắt phương Tây. Đến năm 1958 - 1960, tiệm may Dung ở Sài Gòn sáng tạo ra kiểu tay raglan ráp xéo, loại bỏ vết nhăn ở nách áo, định hình nên phom dáng thanh thoát của áo dài mà chúng ta thấy ngày nay.",
+      "sourceIds": ["src_lich_su_ao_dai"],
+      "reviewStatus": "verified_academic"
+    },
+    {
+      "id": "fact_remix_boundary",
+      "category": "aesthetic_principle",
+      "title": "Ranh giới 'Giữ gì — Remix gì?' trong sáng tạo",
+      "period": "Đương đại",
+      "content": "Sáng tạo Việt phục đương đại thành công khi người thiết kế thấu hiểu cấu trúc cốt lõi (như nẹp cổ đứng, hướng cài khuy, tỷ lệ thân áo) để 'giữ hồn', đồng thời tự do 'remix' về chất liệu (đũi, denim, organza), kỹ thuật may (khóa kéo giấu, xẻ tà năng động) và phụ kiện phối cùng (sneaker, túi gấm hiện đại) để y phục hòa nhịp vào đời sống giới trẻ.",
+      "sourceIds": ["src_nghien_cuu_ung_dung_co_phuc"],
+      "reviewStatus": "curated_design_guideline"
+    }
+  ]
+}

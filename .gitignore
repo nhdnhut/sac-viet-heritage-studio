@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Testing
+coverage/
+
+# Next.js build output
+.next/
+out/
+build/
+dist/
+
+# Production dependencies
+.vercel
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment and secrets
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# SQLite database local journal and WAL
+data/*.db-wal
+data/*.db-shm
+data/*.db-journal
+
+# TypeScript build info and OS caches
+*.tsbuildinfo
+next-env.d.ts
+.DS_Store
+Thumbs.db

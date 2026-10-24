@@ -1,0 +1,81 @@
+{
+  "version": "1.0.0",
+  "scope": "personal_belief_symbolism_only",
+  "reviewStatus": "reviewed_folklore_symbolism",
+  "disclaimer": "Lưu ý văn hóa: Bảng màu Ngũ hành là một hệ thống quan niệm biểu trưng triết học phương Đông dân gian, chỉ mang tính tham khảo sở thích cá nhân khi người dùng chủ động lựa chọn. Bảng này KHÔNG đại diện cho tính chuẩn xác lịch sử của kiểu may y phục, không mang tính dự đoán tương lai hay cam kết vận hạn may rủi. Người mặc hoàn toàn tự do lựa chọn bất kỳ màu sắc nào mình yêu thích.",
+  "sourceIds": ["src_nghien_cuu_ung_dung_co_phuc"],
+  "elements": [
+    {
+      "element": "kim",
+      "name": "Mệnh Kim (Biểu trưng Kim khí & Sự thanh tịnh)",
+      "primaryColors": [
+        { "name": "Trắng bạch kim", "hex": "#FFFDF7", "role": "Tương hợp (Bản mệnh)" },
+        { "name": "Bạc xà cừ / Xám tro", "hex": "#D8D8D8", "role": "Tương hợp" }
+      ],
+      "secondaryColors": [
+        { "name": "Vàng hoàng kim", "hex": "#D4AF37", "role": "Tương sinh (Thổ sinh Kim)" },
+        { "name": "Nâu đất phù sa", "hex": "#7F5539", "role": "Tương sinh" }
+      ],
+      "culturalMeaning": "Màu trắng và ánh kim trong y phục cổ tượng trưng cho sự thuần khiết, thanh cao và minh bạch. Thường xuất hiện ở lớp áo cánh lót hoặc trang sức bạc.",
+      "neutralAlternativeNote": "Nếu bạn thích sắc đỏ hoặc xanh, hoàn toàn có thể phối làm điểm nhấn ở khăn đóng hoặc phụ kiện."
+    },
+    {
+      "element": "moc",
+      "name": "Mệnh Mộc (Biểu trưng Cây cỏ & Sự sinh sôi)",
+      "primaryColors": [
+        { "name": "Xanh ngọc lục bảo", "hex": "#1B4931", "role": "Tương hợp (Bản mệnh)" },
+        { "name": "Xanh lá chuối non", "hex": "#40916C", "role": "Tương hợp" }
+      ],
+      "secondaryColors": [
+        { "name": "Xanh chàm / Đen tuyền", "hex": "#1D3557", "role": "Tương sinh (Thủy sinh Mộc)" },
+        { "name": "Xanh biển sâu", "hex": "#0B192C", "role": "Tương sinh" }
+      ],
+      "culturalMeaning": "Sắc xanh của lá cây, tùng bách biểu đạt sức sống căng tràn, đức nhân từ và sự phát triển ôn hòa.",
+      "neutralAlternativeNote": "Sắc xanh ngọc khi phối cùng quần trắng hoặc phụ kiện vàng đồng mang lại tổng thể trang nhã bất kể quan niệm ngũ hành."
+    },
+    {
+      "element": "thuy",
+      "name": "Mệnh Thủy (Biểu trưng Nước & Sự thông tuệ)",
+      "primaryColors": [
+        { "name": "Xanh chàm cổ truyền", "hex": "#1E3E62", "role": "Tương hợp (Bản mệnh)" },
+        { "name": "Đen mun lụa tuyết", "hex": "#131010", "role": "Tương hợp" }
+      ],
+      "secondaryColors": [
+        { "name": "Trắng ngà / Bạc", "hex": "#FFFDF7", "role": "Tương sinh (Kim sinh Thủy)" },
+        { "name": "Ghi xám sáng", "hex": "#CFD8DC", "role": "Tương sinh" }
+      ],
+      "culturalMeaning": "Màu chàm nhuộm tự nhiên là sắc màu bền vững trong đời sống dân tộc, đại diện cho lòng bao dung và sự tĩnh tại sâu sắc.",
+      "neutralAlternativeNote": "Y phục màu chàm hoặc đen tuyền kết hợp cúc ngọc sáng luôn là phối sắc trang trọng bậc nhất trong truyền thống."
+    },
+    {
+      "element": "hoa",
+      "name": "Mệnh Hỏa (Biểu trưng Lửa & Sự nhiệt huyết)",
+      "primaryColors": [
+        { "name": "Đỏ son sơn mài", "hex": "#9E2A2B", "role": "Tương hợp (Bản mệnh)" },
+        { "name": "Đỏ thắm lụa tơ", "hex": "#800E13", "role": "Tương hợp" },
+        { "name": "Cam đan sa", "hex": "#BF360C", "role": "Tương hợp" }
+      ],
+      "secondaryColors": [
+        { "name": "Xanh lục", "hex": "#1B4931", "role": "Tương sinh (Mộc sinh Hỏa)" },
+        { "name": "Xanh cốm", "hex": "#40916C", "role": "Tương sinh" }
+      ],
+      "culturalMeaning": "Đỏ son là màu của hỷ sự, ngày Tết, khánh tiết và sự ấm áp sum vầy của mái ấm gia đình.",
+      "neutralAlternativeNote": "Sắc đỏ son tôn làn da Á Đông rất tốt, là lựa chọn số 1 cho các dịp Tết và lễ đón xuân."
+    },
+    {
+      "element": "tho",
+      "name": "Mệnh Thổ (Biểu trưng Đất mẹ & Sự vững chãi)",
+      "primaryColors": [
+        { "name": "Vàng hoàng kim triều đình", "hex": "#D4AF37", "role": "Tương hợp (Bản mệnh)" },
+        { "name": "Nâu đất gốm nung", "hex": "#6F4E37", "role": "Tương hợp" },
+        { "name": "Vàng rơm gấm", "hex": "#F3C64F", "role": "Tương hợp" }
+      ],
+      "secondaryColors": [
+        { "name": "Đỏ son / Hồng sen", "hex": "#9E2A2B", "role": "Tương sinh (Hỏa sinh Thổ)" },
+        { "name": "Tím hoàng hôn", "hex": "#5A189A", "role": "Tương sinh" }
+      ],
+      "culturalMeaning": "Màu vàng đại diện cho đất mẹ hiền hòa, sự trù phú và tính ổn định trung dung trong triết học Đông phương.",
+      "neutralAlternativeNote": "Vàng hoàng kim khi đi cùng áo gấm dệt hoa chìm tạo nên thần thái đài các và lịch thiệp."
+    }
+  ]
+}

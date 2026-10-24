@@ -1,0 +1,55 @@
+{
+  "version": "1.0.0",
+  "sources": [
+    {
+      "id": "src_ngan_nam_ao_mu",
+      "title": "Ngàn Năm Áo Mũ: Lịch sử trang phục Việt Nam giai đoạn 1009 - 1945",
+      "author": "Trần Quang Đức",
+      "year": 2013,
+      "publisher": "NXB Thế Giới & Nhã Nam",
+      "type": "book",
+      "verified": true,
+      "notes": "Công trình khảo cứu lịch sử trang phục Việt Nam dựa trên chính sử, văn bia và hiện vật khảo cổ học."
+    },
+    {
+      "id": "src_trang_phuc_trieu_nguyen",
+      "title": "Trang phục triều Nguyễn: Nghiên cứu & Phục dựng",
+      "author": "Trung tâm Bảo tồn Di tích Cố đô Huế",
+      "year": 2018,
+      "publisher": "NXB Thuận Hóa",
+      "type": "research_monograph",
+      "verified": true,
+      "notes": "Tài liệu chuyên khảo về y phục hoàng gia, quan lại và thường phục thời Nguyễn."
+    },
+    {
+      "id": "src_dai_nam_thuc_luc",
+      "title": "Đại Nam Thực Lục (Chính biên)",
+      "author": "Quốc Sử Quán Triều Nguyễn",
+      "year": 1844,
+      "publisher": "Viện Sử Học dịch, NXB Giáo Dục",
+      "type": "historical_chronicle",
+      "verified": true,
+      "notes": "Ghi chép chính thức về các sắc dụ cải cách y phục năm Giáp Tý (1744) và triều Minh Mạng."
+    },
+    {
+      "id": "src_lich_su_ao_dai",
+      "title": "Lược sử Áo dài Việt Nam qua các biến thiên thời đại",
+      "author": "Viện Nghiên cứu Văn hóa & Trang phục Dân tộc",
+      "year": 2021,
+      "publisher": "Tạp chí Văn hóa Dân gian",
+      "type": "journal_paper",
+      "verified": true,
+      "notes": "Hành trình chuyển đổi từ áo tứ thân, ngũ thân sang áo dài Le Mur, Lê Phổ và Raglan."
+    },
+    {
+      "id": "src_nghien_cuu_ung_dung_co_phuc",
+      "title": "Ứng dụng Hoa văn Cổ truyền và Cổ phục trong Thiết kế Đương đại",
+      "author": "Hội đồng Cố vấn Sắc Việt Studio",
+      "year": 2024,
+      "publisher": "Tài liệu lưu hành nội bộ",
+      "type": "design_manifesto",
+      "verified": true,
+      "notes": "Định hướng nguyên tắc 'Giữ gì — Remix gì?' tôn trọng lịch sử và khuyến khích sáng tạo cá nhân."
+    }
+  ]
+}

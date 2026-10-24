@@ -1,0 +1,34 @@
+{
+  "version": "1.0.0",
+  "project": "SẮC VIỆT STUDIO",
+  "license": "Creative Commons Attribution 4.0 International (CC BY 4.0) & MIT for Code",
+  "credits": [
+    {
+      "asset": "Procedural 3D Garment Meshes (Áo ngũ thân & Áo dài)",
+      "author": "Sắc Việt Studio Engineering Team",
+      "license": "MIT",
+      "type": "procedural_parametric_mesh",
+      "simulationLevel": "Tham số hình học cấp độ 2 (Phản ánh cấu trúc cổ, vạt, khuy và tay áo; không cam kết rập cắt may chính xác tuyệt đối)",
+      "notes": "Được xây dựng bằng thuật toán Three.js BufferGeometry và ExtrudeGeometry bám sát quy thức y phục Đại Việt."
+    },
+    {
+      "asset": "Bảng dữ liệu Văn hóa & Khảo cứu Y phục",
+      "author": "Trần Quang Đức (Ngàn Năm Áo Mũ), Trung tâm BTTD Cố đô Huế, Viện Văn hóa Dân gian",
+      "license": "Academic Citation / Fair Use for Cultural Education",
+      "type": "textual_historical_data"
+    },
+    {
+      "asset": "Google GenAI SDK & Gemini Models",
+      "author": "Google DeepMind / Google Cloud",
+      "license": "Apache-2.0",
+      "type": "ai_inference_provider",
+      "notes": "Hỗ trợ suy luận ngôn ngữ tự nhiên và phân tích thị giác đa phương thức."
+    },
+    {
+      "asset": "Lucide React Icons",
+      "author": "Lucide Contributors",
+      "license": "ISC",
+      "type": "iconography"
+    }
+  ]
+}

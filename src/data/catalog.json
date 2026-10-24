@@ -1,0 +1,157 @@
+{
+  "version": "1.0.0",
+  "garments": [
+    {
+      "id": "ao_ngu_than_tay_chen",
+      "name": "Áo ngũ thân tay chẽn",
+      "category": "traditional_nguyen",
+      "historicalPeriod": "Triều Nguyễn (TK 18 - giữa TK 20)",
+      "description": "Y phục chuẩn mực thời Nguyễn gồm 5 thân vải ghép lại: 2 thân trước, 2 thân sau và 1 thân con bên trong (tả lập). Cổ đứng (lập lĩnh) tròn ôm khít, nẹp cài khuy bên phải với 5 cúc tượng trưng cho ngũ thường. Tay áo cắt thon gọn ôm dần về phía cổ tay (tay chẽn), mang vẻ trang trọng, đĩnh đạc và thuận tiện cho sinh hoạt.",
+      "defaultColors": {
+        "primary": "#800E13",
+        "secondary": "#B8860B",
+        "pants": "#FFFDF7",
+        "lining": "#F4ECD8"
+      },
+      "collarTypes": [
+        { "id": "co_dung_truyen_thong", "name": "Cổ đứng truyền thống (3.5 - 4cm)", "description": "Cổ lập lĩnh vuông vắn ôm khít, viền cổ đứng vững chãi." },
+        { "id": "co_dung_thap", "name": "Cổ đứng hạ thấp (2.5cm - Remix)", "description": "Cổ đứng tinh giản, thoáng nhẹ phù hợp khí hậu nóng và giới trẻ." }
+      ],
+      "sleeveTypes": [
+        { "id": "tay_chen_chuan", "name": "Tay chẽn chuẩn mực", "description": "Ống tay nối thẳng nách, thu hẹp dần ôm cổ tay gọn gàng." },
+        { "id": "tay_chen_remix_vat_lo", "name": "Tay chẽn viền tương phản (Remix)", "description": "Tay chẽn có nẹp lót lộ viền cổ tay màu tương phản khi xắn nhẹ." }
+      ],
+      "buttonTypes": [
+        { "id": "cuc_ngoc_5_chiec", "name": "5 Cúc đồng / Ngọc / Kim loại", "description": "1 cúc cổ, 1 cúc nách, 3 cúc sườn thân áo tượng trưng Nhân - Lễ - Nghĩa - Trí - Tín." }
+      ],
+      "pantsTypes": [
+        { "id": "quan_trang_ong_rong", "name": "Quần trắng ống đứng / rộng", "description": "Quần bằng lụa trắng hoặc đen, cạp luồn dây dải rút truyền thống." },
+        { "id": "quan_tay_khong_ly_remix", "name": "Quần âu ống suông tối giản (Remix)", "description": "Quần tây phom đứng hiện đại kết hợp áo ngũ thân." }
+      ],
+      "fabrics": [
+        { "id": "gam_hoa_sen", "name": "Gấm dệt chìm hoa sen / chữ Thọ", "texture": "brocade" },
+        { "id": "lua_to_tam_ha_dong", "name": "Lụa tơ tằm Vạn Phúc / Hà Đông", "texture": "silk" },
+        { "id": "dui_tu_nhien_remix", "name": "Đũi tơ thô dệt thủ công (Remix trẻ)", "texture": "linen_raw" }
+      ],
+      "remixPossibilities": [
+        "Phối chất liệu vải đũi thô dệt hoặc cotton linen thoáng mát cho ngày hội thanh niên",
+        "Kết hợp sneaker trắng tối giản thay cho hài thêu truyền thống",
+        "Nẹp cổ và vạt lót phối màu tương phản (color-blocking nhã nhặn)",
+        "Đeo túi đeo chéo vải gấm mini hoặc túi da thủ công"
+      ]
+    },
+    {
+      "id": "ao_dai_hien_dai",
+      "name": "Áo dài hiện đại",
+      "category": "modern_evolution",
+      "historicalPeriod": "TK 20 đến đương đại (Kế thừa Le Mur, Raglan)",
+      "description": "Dòng y phục phát triển từ áo dài truyền thống với phom dáng tôn lên đường nét thanh thoát. Cắt may ôm vừa vặn, hai tà áo buông rủ dài quá gối, kết hợp linh hoạt giữa nét duyên dáng kinh điển và hơi thở năng động của thế hệ trẻ trong kỷ yếu và lễ hội.",
+      "defaultColors": {
+        "primary": "#1B4931",
+        "secondary": "#D4AF37",
+        "pants": "#FFFDF7",
+        "lining": "#FFFFFF"
+      },
+      "collarTypes": [
+        { "id": "co_tru_co_dien", "name": "Cổ trụ cổ điển (3cm)", "description": "Giữ nét đoan trang truyền thống." },
+        { "id": "co_tron_thuyen_remix", "name": "Cổ tròn / Cổ thuyền (Remix)", "description": "Thoải mái, khoe nét thanh tú và năng động." },
+        { "id": "co_vuong_cach_dieu", "name": "Cổ vuông cách điệu (Remix)", "description": "Đường nét hiện đại, phá cách nhẹ nhàng." }
+      ],
+      "sleeveTypes": [
+        { "id": "tay_raglan_dai", "name": "Tay raglan dài truyền thống", "description": "Ráp xéo từ cổ xuống nách, nếp áo êm không nhăn ngực." },
+        { "id": "tay_lo_bong_remix", "name": "Tay lỡ bồng nhẹ (Remix)", "description": "Tạo nét trẻ trung, mềm mại cho kỷ yếu và dạo phố." },
+        { "id": "tay_suong_ngan", "name": "Tay suông cộc hè (Remix)", "description": "Năng động cho các hoạt động ngoài trời của câu lạc bộ." }
+      ],
+      "buttonTypes": [
+        { "id": "khoa_keo_sau_lung", "name": "Khóa kéo giấu sau lưng / sườn", "description": "Kỹ thuật hiện đại tạo độ phẳng phiu tuyệt đối cho thân áo." },
+        { "id": "khuy_bam_suon_raglan", "name": "Khuy bấm ngực chéo Raglan", "description": "Nét hoài cổ thanh lịch thập niên 1960." }
+      ],
+      "pantsTypes": [
+        { "id": "quan_lua_ong_suong", "name": "Quần lụa ống suông truyền thống", "description": "Quần lụa dài quét đất, bước đi tha thướt." },
+        { "id": "quan_culottes_remix", "name": "Quần lụa lửng culottes / váy đũi (Remix)", "description": "Độ dài vừa chạm mắt cá, dễ di chuyển vận động." }
+      ],
+      "fabrics": [
+        { "id": "lua_to_tam_trang", "name": "Lụa tơ tằm mềm rủ", "texture": "silk" },
+        { "id": "organza_to_song_remix", "name": "Organza tơ sống 2 lớp xuyên thấu nhẹ", "texture": "organza" },
+        { "id": "nhung_the_sang_trong", "name": "Nhung the tuyết mịn", "texture": "velvet" }
+      ],
+      "remixPossibilities": [
+        "Phối hai lớp tà tơ sống organza tạo hiệu ứng chiều sâu màu nước",
+        "Kết hợp chân váy xếp ly xòe hoặc quần culottes lụa năng động",
+        "Họa tiết tranh dân gian Đông Hồ/Hàng Trống in viền chuyển sắc đương đại",
+        "Đi cùng mấn đội đầu bọc vải gấm mini cách điệu"
+      ]
+    }
+  ],
+  "accessories": [
+    {
+      "id": "khan_dong_truyen_thong",
+      "name": "Khăn đóng (Khăn xếp) truyền thống",
+      "applicableGarments": ["ao_ngu_than_tay_chen", "ao_dai_hien_dai"],
+      "type": "headwear",
+      "description": "Khăn quấn nhiều nếp đều tăm tắp, đỉnh hình chữ Nhân (人) hoặc chữ Nhất, nét trang nghiêm tôn kính."
+    },
+    {
+      "id": "man_cach_dieu_remix",
+      "name": "Mấn bọc gấm cách điệu (Remix)",
+      "applicableGarments": ["ao_dai_hien_dai"],
+      "type": "headwear",
+      "description": "Mấn tròn thanh mảnh bọc vải gấm hoặc nhung đính hạt ngọc li ti, tạo điểm nhấn khuôn mặt."
+    },
+    {
+      "id": "tram_cai_sen_bac",
+      "name": "Trâm cài tóc hoa sen bạc / xà cừ",
+      "applicableGarments": ["ao_ngu_than_tay_chen", "ao_dai_hien_dai"],
+      "type": "hairpin",
+      "description": "Điểm xuyết mái tóc búi gọn gàng, thanh tao thuần Việt."
+    },
+    {
+      "id": "quat_giay_do_thu_phap",
+      "name": "Quạt giấy dó vẽ thủy mặc / chữ Nôm",
+      "applicableGarments": ["ao_ngu_than_tay_chen", "ao_dai_hien_dai"],
+      "type": "handheld",
+      "description": "Quạt nan tre dán giấy dó Kinh Bắc, vừa che mát vừa làm đạo cụ chụp ảnh tao nhã."
+    },
+    {
+      "id": "tui_gam_theu_hoa_thuy_ba",
+      "name": "Túi gấm đeo chéo họa tiết Thủy Ba",
+      "applicableGarments": ["ao_ngu_than_tay_chen", "ao_dai_hien_dai"],
+      "type": "bag",
+      "description": "Họa tiết sóng nước Thủy Ba triều Nguyễn tái sinh trên phom túi đeo chéo mini tiện dụng."
+    },
+    {
+      "id": "guoc_moc_quai_nhung",
+      "name": "Guốc mộc quai nhung đỏ son",
+      "applicableGarments": ["ao_ngu_than_tay_chen", "ao_dai_hien_dai"],
+      "type": "footwear",
+      "description": "Guốc gỗ vông mộc mạc, gót cong nhẹ, quai nhung êm ái âm vang tiếng lách cách thân thương."
+    },
+    {
+      "id": "sneaker_trang_remix",
+      "name": "Giày Sneaker trắng canvas (Remix)",
+      "applicableGarments": ["ao_ngu_than_tay_chen", "ao_dai_hien_dai"],
+      "type": "footwear",
+      "description": "Sự đối thoại phá cách giữa y phục truyền thống và phong cách học đường năng động."
+    }
+  ],
+  "occasions": [
+    {
+      "id": "tet_nguyen_dan",
+      "name": "Tết Nguyên Đán & Du xuân",
+      "mood": "Rực rỡ, may mắn, sum vầy, tôn nghiêm mà ấm áp",
+      "recommendedColors": ["#9E2A2B", "#D4AF37", "#1B4931", "#F3C64F"]
+    },
+    {
+      "id": "ky_yeu_hoc_duong",
+      "name": "Kỷ yếu tốt nghiệp & Thanh xuân",
+      "mood": "Trong sáng, thanh lịch, hoài niệm, tạo dấu ấn cá nhân",
+      "recommendedColors": ["#FFFDF7", "#1D3557", "#457B9D", "#BF360C"]
+    },
+    {
+      "id": "ngay_hoi_van_hoa",
+      "name": "Ngày hội văn hóa & Diễu hành CLB",
+      "mood": "Sôi động, đậm đà bản sắc, nổi bật trên sân khấu và diễu hành",
+      "recommendedColors": ["#800E13", "#B8860B", "#143625", "#F4ECD8"]
+    }
+  ]
+}

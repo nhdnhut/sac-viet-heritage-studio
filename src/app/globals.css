@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #0B0909;
+  --foreground: #FFFDF7;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  overflow-x: hidden;
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #131010;
+}
+::-webkit-scrollbar-thumb {
+  background: #360608;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #800E13;
+}
+
+/* Print styling for Design Brief */
+@media print {
+  body * {
+    visibility: hidden;
+  }
+  #printable-brief, #printable-brief * {
+    visibility: visible;
+  }
+  #printable-brief {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    color: #000000 !important;
+    background: #ffffff !important;
+  }
+  #printable-brief div {
+    background: #ffffff !important;
+    color: #000000 !important;
+    border-color: #cccccc !important;
+  }
+}
